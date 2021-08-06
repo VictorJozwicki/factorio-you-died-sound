@@ -1,0 +1,11 @@
+Version: 1.2.0
+Date: 25-01-2020
+
+Changes:
+- Update to 0.18.0
+
+Version: 1.1.0
+Date: 18-03-2019
+
+Changes:
+- Replaced the default sound
