@@ -1,11 +1,31 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 19. 11. 2026
+  Compatibility:
+    - Updated for Factorio 2.1 (stable).
+    - Set factorio_version to 2.1 and require base >= 2.1.0.
+  Modding:
+    - Updated UtilitySounds game_lost override to the current Sound prototype format.
+  Info:
+    - Added English locale for mod name and description.
+    - Added README and brought changelog formatting in line with Factorio docs.
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+Date: 14. 08. 2020
+  Compatibility:
+    - Updated for Factorio 1.0.
+---------------------------------------------------------------------------------------------------
 Version: 1.2.0
-Date: 25-01-2020
-
-Changes:
-- Update to 0.18.0
-
+Date: 25. 01. 2020
+  Compatibility:
+    - Updated for Factorio 0.18.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.0
-Date: 18-03-2019
-
-Changes:
-- Replaced the default sound
+Date: 18. 03. 2019
+  Sounds:
+    - Replaced the default game-lost sound with the Dark Souls You Died sting.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 17. 03. 2019
+  Major Features:
+    - Initial release.
