@@ -1,6 +1,6 @@
 {
   "name": "YouDied",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "title": "You Died",
   "description": "Replaces the default game-lost / player death sound with the Dark Souls \"You Died\" sting.",
   "author": "TigreDemon",

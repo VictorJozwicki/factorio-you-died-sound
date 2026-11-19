@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 19. 11. 2026
+  Graphics:
+    - Replaced thumbnail.png with a 144x144 square Dark Souls YOU DIED icon for the mod browser / portal.
+---------------------------------------------------------------------------------------------------
 Version: 2.0.0
 Date: 19. 11. 2026
   Compatibility:

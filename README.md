@@ -24,9 +24,9 @@ Factorio plays that utility sound when the player dies / the game is lost (`util
 
 ## Install
 
-Factorio requires the mod folder (or zip) name to match `info.json` — **`YouDied` or `YouDied_2.0.0`** (case sensitive). The git repo name `factorio-you-died-sound` will **not** load and produces: `Directory name of mod ... doesn't match the expected YouDied or YouDied_2.0.0`.
+Factorio requires the mod folder (or zip) name to match `info.json` — **`YouDied` or `YouDied_2.0.1`** (case sensitive). The git repo name `factorio-you-died-sound` will **not** load and produces: `Directory name of mod ... doesn't match the expected YouDied or YouDied_2.0.1`.
 
-1. Copy or symlink this checkout into `%APPDATA%\Factorio\mods\` as `YouDied` / `YouDied_2.0.0`, **or** zip the mod files as `YouDied_2.0.0.zip` (see [Mod structure](https://lua-api.factorio.com/latest/auxiliary/mod-structure.html)). Do not leave the folder named after the GitHub repo.
+1. Copy or symlink this checkout into `%APPDATA%\Factorio\mods\` as `YouDied` / `YouDied_2.0.1`, **or** zip the mod files as `YouDied_2.0.1.zip` (see [Mod structure](https://lua-api.factorio.com/latest/auxiliary/mod-structure.html)). Do not leave the folder named after the GitHub repo.
 2. Enable **You Died** in the in-game mod manager.
 3. Die once (or otherwise trigger game lost) and listen for the sting.
 
