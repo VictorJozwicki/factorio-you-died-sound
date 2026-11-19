@@ -1,10 +1,10 @@
 {
   "name": "YouDied",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "title": "You Died",
-  "description": "You died sound from Dark Souls",
+  "description": "Replaces the default game-lost / player death sound with the Dark Souls \"You Died\" sting.",
   "author": "TigreDemon",
-  "homepage": "",
-  "factorio_version": "1.0",
-  "dependencies": ["base >= 1.0.0"]
+  "homepage": "https://github.com/VictorJozwicki/factorio-you-died-sound",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.0"]
 }
